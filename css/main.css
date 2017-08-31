@@ -1,0 +1,9 @@
+html { font-size: 8px; }
+
+html,
+body,
+#main { height: 100%; }
+
+.hint { text-align: center; }
+
+@media screen and (min-width: 990px) { html { font-size: 16px; } }
