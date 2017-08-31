@@ -21,7 +21,7 @@
                         'id': 'search_input',
                         'name': 'search_input',
                         'type': 'text',
-                        'placeholder': 'Search for Product',
+                        'placeholder': 'Test Keyboard',
                         'max-length': 80 
                     }),
                     $spyglass = $('<i>', {'class': 'icon-spyglass'}),
