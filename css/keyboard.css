@@ -25,7 +25,7 @@
                 width: 2.542em; height: 2em; line-height: 2em;
                 cursor: pointer;
                 box-shadow: 0 0.083em #999;
-                background: #000000;
+                background: #ffffff;
                 color: #000;
             }
             .button:active { margin-top: 0.25em; margin-bottom: -0.125em; box-shadow: none; }
