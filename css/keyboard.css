@@ -10,7 +10,7 @@
     text-align: left;
     font-family: helvetica, arial, sans-serif;
     font-size: 1.5em; line-height: 100%; letter-spacing: 0.04em; 
-    color: #ffffff;
+    color: #000;
 }
 ::-webkit-input-placeholder { line-height: 100%; color: #989898; }
 ::-moz-placeholder { color: #989898; }
@@ -25,7 +25,7 @@
                 width: 2.542em; height: 2em; line-height: 2em;
                 cursor: pointer;
                 box-shadow: 0 0.083em #999;
-                background: #ffffff;
+                background: #000000;
                 color: #000;
             }
             .button:active { margin-top: 0.25em; margin-bottom: -0.125em; box-shadow: none; }
