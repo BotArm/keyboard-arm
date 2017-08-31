@@ -10,7 +10,7 @@
     text-align: left;
     font-family: helvetica, arial, sans-serif;
     font-size: 1.5em; line-height: 100%; letter-spacing: 0.04em; 
-    color: #ffffff;
+    color: #000;
 }
 ::-webkit-input-placeholder { line-height: 100%; color: #989898; }
 ::-moz-placeholder { color: #989898; }
